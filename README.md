@@ -12,7 +12,7 @@ Intro to Programming with Ruby | [Leo Rudberg](https://github.com/LOZORD):
 * [Guide](https://gist.github.com/LOZORD/4125803c951334077807)
 * Video -- coming soon
 
-Internship Safari (How to land one, etc.) | [Nick Heindl et al.](https://github.com/katamaritaco):
+Internship Safari (How to land one, etc.) | [Nick Heindl](https://github.com/katamaritaco) et al.:
 * [Presentation](https://docs.google.com/presentation/d/1vROkXJTpEufwBwy89dkAk6wGmFF5ffzOvkz6f-yDdb4/edit?usp=sharing)
 
 New User Night for the UPL | [Nick Heindl](https://github.com/katamaritaco) and [Leon Dinh](https://github.com/lwdinh)

@@ -3,7 +3,6 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 * [Fall 2015](#fall-2015)
 * [Spring 2015](#spring-2015)
-
 * [Fall 2014](#fall-2014)
 
 ## Fall 2015

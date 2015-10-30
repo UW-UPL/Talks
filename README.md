@@ -23,7 +23,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
   * [Presentation](https://docs.google.com/presentation/d/1BKXF8-FFSM_eFj2Ygb3z6P2Xeu_F7eLRYzxEcD8jpok/edit?usp=sharing)
 
 * Class Guide | [Nick Heindl](https://github.com/katamaritaco) and [Matt Neil](https://github.com/mjneil)
-  * [Presentation](https://docs.google.com/presentation/d/1nbUtkXpk5PHGwccQjsp1if6iSBRNPEkRsBBXd7hiPak/edit?usp=sharing)
+  * [Presentation](https://docs.google.com/presentation/d/1nbUtkXpk5PHGwccQjsp1if6iSBRNPEkRsBBXd7hiPak/edit?usp=sharing) NOTE: This is definitely an event you have to attend because of the facilitated discussion. The text on here are solely replies from professors.
 
 ## Fall 2014
 * Intro to git and GitHub | [Leo Rudberg](https://github.com/LOZORD):

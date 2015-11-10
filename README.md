@@ -7,6 +7,9 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 ## Fall 2015
 
+* Free Software and Celebrating 30 Years of the Free Software Foundation | [Marshall Mueller](https://github.com/marshmue):
+  * [Presentation](https://docs.google.com/presentation/d/1k_uHwjWm1eCcm2mdxRhRgmAZ_2GiIltPTHdVKKya3fA/edit?usp=sharing) 
+
 * Intro to Functional Programming with Haskell | [Leo Rudberg](https://github.com/LOZORD):
   * [Presentation](https://docs.google.com/presentation/d/1xxfZseaQncqUq3UHGbW1LeTmNsg9Voun_uDWjJf2J3I/edit?usp=sharing)
   * [GitHub Gist w/ section](https://gist.github.com/LOZORD/9d23396e4206a5b1cb02) from [ Mike Tolly](https://github.com/mtolly)

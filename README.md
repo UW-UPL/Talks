@@ -7,6 +7,9 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 ## Fall 2015
 
+* UPL Coding Interview Prep | [Riccardo Mutschlechner](https://github.com/ricky54326):
+  * [Content](http://pages.cs.wisc.edu/~riccardo/interviewprep.html) 
+
 * Free Software and Celebrating 30 Years of the Free Software Foundation | [Marshall Mueller](https://github.com/marshmue):
   * [Presentation](https://docs.google.com/presentation/d/1k_uHwjWm1eCcm2mdxRhRgmAZ_2GiIltPTHdVKKya3fA/edit?usp=sharing) 
 

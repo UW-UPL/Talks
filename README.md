@@ -20,7 +20,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 * Intro to Programming with Ruby | [Leo Rudberg](https://github.com/LOZORD):
   * [Presentation](https://docs.google.com/presentation/d/12xJS1OAN2QcIPfRA99OzQq2BahW6pSEQcf5sAs6x_vg/edit?usp=sharing)
   * [Guide](https://gist.github.com/LOZORD/4125803c951334077807)
-  * Video -- coming soon
+  * [Video](https://www.youtube.com/watch?v=R8cDQy9tOfs)
 
 * Internship Safari (How to land one, etc.) | [Nick Heindl](https://github.com/katamaritaco) et al.:
   * [Presentation](https://docs.google.com/presentation/d/1vROkXJTpEufwBwy89dkAk6wGmFF5ffzOvkz6f-yDdb4/edit?usp=sharing)

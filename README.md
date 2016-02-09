@@ -18,9 +18,11 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 * Free Software and Celebrating 30 Years of the Free Software Foundation | [Marshall Mueller](https://github.com/marshmue):
   * [Presentation](https://docs.google.com/presentation/d/1k_uHwjWm1eCcm2mdxRhRgmAZ_2GiIltPTHdVKKya3fA/edit?usp=sharing) 
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/Free%20Software%20and%20Celebrating%2030%20Years%20of%20the%20FSF.pdf)
 
 * Intro to Functional Programming with Haskell | [Leo Rudberg](https://github.com/LOZORD):
   * [Presentation](https://docs.google.com/presentation/d/1xxfZseaQncqUq3UHGbW1LeTmNsg9Voun_uDWjJf2J3I/edit?usp=sharing)
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/intro_to_fp.pdf)
   * [GitHub Gist w/ section](https://gist.github.com/LOZORD/9d23396e4206a5b1cb02) from [ Mike Tolly](https://github.com/mtolly)
   * [Video](https://www.youtube.com/watch?v=lvn6hpL1QAU)
 
@@ -28,9 +30,11 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
   * [Presentation](https://docs.google.com/presentation/d/12xJS1OAN2QcIPfRA99OzQq2BahW6pSEQcf5sAs6x_vg/edit?usp=sharing)
   * [Guide](https://gist.github.com/LOZORD/4125803c951334077807)
   * [Video](https://www.youtube.com/watch?v=R8cDQy9tOfs)
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/uplvls_learn_to_program_with_ruby.pdf)
 
 * Internship Safari (How to land one, etc.) | [Nick Heindl](https://github.com/katamaritaco) et al.:
   * [Presentation](https://docs.google.com/presentation/d/1vROkXJTpEufwBwy89dkAk6wGmFF5ffzOvkz6f-yDdb4/edit?usp=sharing)
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/InternshipPresentationFall2015.pdf)
 
 * New User Night for the UPL | [Nick Heindl](https://github.com/katamaritaco) and [Leon Dinh](https://github.com/lwdinh)
   * [Presentation](https://docs.google.com/presentation/d/1ah4n5i9OsIJUNzbXGYr3DeIli-DG8ZPquQR9EXm6hUY/edit?usp=sharing)
@@ -39,6 +43,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 ## Spring 2015
 * C: Pedal to the (bare)Metal | [Riccardo Mutschlechner](https://github.com/Ricky54326) and [Nik Ingrassia](https://github.com/ningrassia):
   * [Presentation](https://docs.google.com/presentation/d/1BKXF8-FFSM_eFj2Ygb3z6P2Xeu_F7eLRYzxEcD8jpok/edit?usp=sharing)
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/UPL%20C%20Talk.pdf)
 
 * Class Guide | [Nick Heindl](https://github.com/katamaritaco) and [Matt Neil](https://github.com/mjneil)
   * [Presentation](https://docs.google.com/presentation/d/1nbUtkXpk5PHGwccQjsp1if6iSBRNPEkRsBBXd7hiPak/edit?usp=sharing) NOTE: This is definitely an event you have to attend because of the facilitated discussion. The text on here are solely replies from professors.

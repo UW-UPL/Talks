@@ -52,5 +52,6 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 ## Fall 2014
 * Intro to git and GitHub | [Leo Rudberg](https://github.com/LOZORD):
   * [Presentation](http://docs.google.com/presentation/d/1sYdEPNwpe8chFWLFU6kbSAnnop2ifaJGDlsY3ZagGXU/edit?usp=sharing)
+  * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/uplvls_git_github.pdf)
   * [Guide](https://gist.github.com/LOZORD/3f4271e461f6d8aaa99d)
   * [Video](http://youtu.be/qmJpVoAF3OY)

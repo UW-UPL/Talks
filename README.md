@@ -44,6 +44,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 * C: Pedal to the (bare)Metal | [Riccardo Mutschlechner](https://github.com/Ricky54326) and [Nik Ingrassia](https://github.com/ningrassia):
   * [Presentation](https://docs.google.com/presentation/d/1BKXF8-FFSM_eFj2Ygb3z6P2Xeu_F7eLRYzxEcD8jpok/edit?usp=sharing)
   * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/UPL%20C%20Talk.pdf)
+  * [Sample "Go Fish" Project](https://github.com/UW-UPL/Sample-C-Program-gofish)
 
 * Class Guide | [Nick Heindl](https://github.com/katamaritaco) and [Matt Neil](https://github.com/mjneil)
   * [Presentation](https://docs.google.com/presentation/d/1nbUtkXpk5PHGwccQjsp1if6iSBRNPEkRsBBXd7hiPak/edit?usp=sharing) NOTE: This is definitely an event you have to attend because of the facilitated discussion. The text on here are solely replies from professors.

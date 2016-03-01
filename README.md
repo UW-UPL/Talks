@@ -1,20 +1,25 @@
 # Talks and Presentations
+
 All of the talks we give at the UPL, so they can be re-used and re-given later on without needing to re-create from scratch. 
+
+If you're only looking for interview prep, check [here](https://github.com/UW-UPL/UPLInterviewPrep).
 
 * [Spring 2016](#spring-2016)
 * [Fall 2015](#fall-2015)
 * [Spring 2015](#spring-2015)
 * [Fall 2014](#fall-2014)
 
+
 ## Spring 2016
 
 * UPL Interview Prep | [Leo Rudberg](https://github.com/LOZORD) et al.
-  * [Questions and Solutions](https://github.com/UW-UPL/InterviewPrepJan2016)
+  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/Spring2016)
+
 
 ## Fall 2015
 
 * UPL Coding Interview Prep | [Riccardo Mutschlechner](https://github.com/ricky54326):
-  * [Questions and Solutions](http://pages.cs.wisc.edu/~riccardo/interviewprep.html)
+  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/Fall2015)
 
 * Free Software and Celebrating 30 Years of the Free Software Foundation | [Marshall Mueller](https://github.com/marshmue):
   * [Presentation](https://docs.google.com/presentation/d/1k_uHwjWm1eCcm2mdxRhRgmAZ_2GiIltPTHdVKKya3fA/edit?usp=sharing) 
@@ -41,6 +46,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 
 ## Spring 2015
+
 * C: Pedal to the (bare)Metal | [Riccardo Mutschlechner](https://github.com/Ricky54326) and [Nik Ingrassia](https://github.com/ningrassia):
   * [Presentation](https://docs.google.com/presentation/d/1BKXF8-FFSM_eFj2Ygb3z6P2Xeu_F7eLRYzxEcD8jpok/edit?usp=sharing)
   * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/UPL%20C%20Talk.pdf)
@@ -50,7 +56,9 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
   * [Presentation](https://docs.google.com/presentation/d/1nbUtkXpk5PHGwccQjsp1if6iSBRNPEkRsBBXd7hiPak/edit?usp=sharing) NOTE: This is definitely an event you have to attend because of the facilitated discussion. The text on here are solely replies from professors.
   * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/UPL%20CS%20Class%20Event.pdf)
 
+
 ## Fall 2014
+
 * Intro to git and GitHub | [Leo Rudberg](https://github.com/LOZORD):
   * [Presentation](http://docs.google.com/presentation/d/1sYdEPNwpe8chFWLFU6kbSAnnop2ifaJGDlsY3ZagGXU/edit?usp=sharing)
   * [PDF](https://github.com/UW-UPL/Talks/blob/master/archive/uplvls_git_github.pdf)

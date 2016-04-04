@@ -12,6 +12,18 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 
 ## Spring 2016
 
+* Intro to Python | [Mike Cook](https://github.com/MikeCook9994)
+  * UPCOMING 4/19
+
+* PGP, Tor, and You | [Riccardo Mutschlechner](https://github.com/ricky54326)
+  * UPCOMING 4/13
+
+* UPL Answers: What courses should I take? | [Mike Cook](https://github.com/MikeCook9994) et al.
+  * UPCOMING 4/11
+
+* UPL Games II | [Matt Neil](https://github.com/mjneil), [Yusef Sohail](https://github.com/squeakrats), [Jasmine Wang](https://github.com/simplywondrous), [Riccardo Mutschlechner](https://github.com/ricky54326), [Nick Heindl](https://github.com/katamaritaco)
+  * QUESTIONS/WRITEUP COMING SOON :tm:
+
 * UPL Interview Prep | [Leo Rudberg](https://github.com/LOZORD) et al.
   * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/Spring2016)
 

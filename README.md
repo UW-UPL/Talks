@@ -22,7 +22,8 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
   * UPCOMING 4/13
 
 * UPL Answers: What courses should I take? | [Mike Cook](https://github.com/MikeCook9994) et al.
-  * UPCOMING 4/11
+* [Presentation PDF (Coming Soon)]()  
+* [Presentation Slides](https://docs.google.com/presentation/d/1jWfoA9itefad2TlZ_bFktIgrFuHzb1_mfYxHsyS9UvU/edit?usp=sharing)
 
 * UPL Games II | [Matt Neil](https://github.com/mjneil), [Yusef Sohail](https://github.com/squeakrats), [Jasmine Wang](https://github.com/simplywondrous), [Riccardo Mutschlechner](https://github.com/ricky54326), [Nick Heindl](https://github.com/katamaritaco)
   * QUESTIONS/WRITEUP COMING SOON :tm:

@@ -16,7 +16,7 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
   * [Presentation PDF](https://github.com/UW-UPL/Talks/files/207479/Discourses.and.Dialogs.on.Debugging.pdf)
 
 * Intro to Python | [Mike Cook](https://github.com/MikeCook9994)
-  * UPCOMING 4/19
+  * [Presentation Slides](https://docs.google.com/presentation/d/1oLmcwp7vxLQaI1Mn95sd8ij_6PJgT-OuiZEWVJfJQEc/edit?usp=sharing)
 
 * PGP, Tor, and You | [Riccardo Mutschlechner](https://github.com/ricky54326)
   * UPCOMING 4/13

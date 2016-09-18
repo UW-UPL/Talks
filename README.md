@@ -4,6 +4,7 @@ All of the talks we give at the UPL, so they can be re-used and re-given later o
 
 If you're only looking for interview prep, check [here](https://github.com/UW-UPL/UPLInterviewPrep).
 
+* [Fall 2016](#fall-2016)
 * [Spring 2016](#spring-2016)
 * [Fall 2015](#fall-2015)
 * [Spring 2015](#spring-2015)
@@ -11,9 +12,9 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 
 ## Fall 2016
 
-* UPL Presents: Git and Github [Evan Kivolowitz](https://github.com/ekivolowitz) and [John Detter](https://github.com/jdetter)
+* UPL Presents: Git and Github | [Evan Kivolowitz](https://github.com/ekivolowitz) and [John Detter](https://github.com/jdetter)
 
-* Intro to Python [Sean Wilson](https://github.com/spwilson2)
+* Intro to Python | [Sean Wilson](https://github.com/spwilson2)
     * [Presentation Slides](https://docs.google.com/presentation/d/1oLmcwp7vxLQaI1Mn95sd8ij_6PJgT-OuiZEWVJfJQEc/edit?usp=sharing)
 
 ## Spring 2016

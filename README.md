@@ -25,9 +25,6 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 * Intro to Python | [Mike Cook](https://github.com/MikeCook9994)
   * [Presentation Slides](https://docs.google.com/presentation/d/1oLmcwp7vxLQaI1Mn95sd8ij_6PJgT-OuiZEWVJfJQEc/edit?usp=sharing)
 
-* PGP, Tor, and You | [Riccardo Mutschlechner](https://github.com/ricky54326)
-  * UPCOMING 4/13
-
 * UPL Answers: What courses should I take? | [Mike Cook](https://github.com/MikeCook9994) et al.
   * [Presentation PDF (Coming Soon)]()  
   * [Presentation Slides](https://docs.google.com/presentation/d/1jWfoA9itefad2TlZ_bFktIgrFuHzb1_mfYxHsyS9UvU/edit?usp=sharing)

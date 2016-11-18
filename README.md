@@ -39,7 +39,7 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 ## Fall 2015
 
 * UPL Coding Interview Prep | [Riccardo Mutschlechner](https://github.com/ricky54326):
-  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/Fall2015)
+  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/tree/master/Fall2015)
 
 * Free Software and Celebrating 30 Years of the Free Software Foundation | [Marshall Mueller](https://github.com/marshmue):
   * [Presentation](https://docs.google.com/presentation/d/1k_uHwjWm1eCcm2mdxRhRgmAZ_2GiIltPTHdVKKya3fA/edit?usp=sharing) 

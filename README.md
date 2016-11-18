@@ -33,7 +33,7 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
   * QUESTIONS/WRITEUP COMING SOON :tm:
 
 * UPL Interview Prep | [Leo Rudberg](https://github.com/LOZORD) et al.
-  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/Spring2016)
+  * [Questions and Solutions](https://github.com/UW-UPL/UPLInterviewPrep/tree/master/Spring2016)
 
 
 ## Fall 2015

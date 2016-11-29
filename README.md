@@ -19,7 +19,7 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 
 ## Spring 2016
 
-* Perry's Famous Debugging Talk |[Perry Kivolowitz](https://github.com/pkivolowitz)
+* Perry's Famous Debugging Talk | [Perry Kivolowitz](https://github.com/pkivolowitz)
   * [Presentation PDF](https://github.com/UW-UPL/Talks/files/207479/Discourses.and.Dialogs.on.Debugging.pdf)
 
 * Intro to Python | [Mike Cook](https://github.com/MikeCook9994)

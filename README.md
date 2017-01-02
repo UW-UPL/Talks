@@ -10,6 +10,12 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 * [Spring 2015](#spring-2015)
 * [Fall 2014](#fall-2014)
 
+## Generic slide decks and presentation
+
+* UPL Answers: What courses should I take? | [Mike Cook](https://github.com/MikeCook9994)
+  * Updated every semester
+  * [Presentation Slides](https://docs.google.com/presentation/d/1P5DUhTODZ5N8QJP00F_csNDefVznM5KnNbX3DePKDS0/edit?usp=sharing)
+
 ## Fall 2016
 
 * UPL Presents: Git and Github | [Evan Kivolowitz](https://github.com/ekivolowitz) and [John Detter](https://github.com/jdetter)

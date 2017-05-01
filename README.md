@@ -18,8 +18,6 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 
 ## Fall 2016
 
-* UPL Presents: Git and Github | [Evan Kivolowitz](https://github.com/ekivolowitz) and [John Detter](https://github.com/jdetter)
-
 * Intro to Python | [Sean Wilson](https://github.com/spwilson2)
     * [Presentation Slides](https://docs.google.com/presentation/d/1oLmcwp7vxLQaI1Mn95sd8ij_6PJgT-OuiZEWVJfJQEc/edit?usp=sharing)
 

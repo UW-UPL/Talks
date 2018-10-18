@@ -3,6 +3,7 @@
 All of the talks we give at the UPL, so they can be re-used and re-given later on without needing to re-create from scratch. 
 
 If you're only looking for interview prep, check [here](https://github.com/UW-UPL/UPLInterviewPrep).
+* [Fall 2018](#fall-2018)
 * [Fall 2017](#fall-2017)
 * [Fall 2016](#fall-2016)
 * [Spring 2016](#spring-2016)
@@ -15,6 +16,10 @@ If you're only looking for interview prep, check [here](https://github.com/UW-UP
 * UPL Answers: What courses should I take? | [Mike Cook](https://github.com/MikeCook9994)
   * Updated every semester
   * [Presentation Slides](https://docs.google.com/presentation/d/1P5DUhTODZ5N8QJP00F_csNDefVznM5KnNbX3DePKDS0/edit?usp=sharing)
+
+## Fall 2018
+* Hacktoberfest: Intro to GitHub | [John Balis](https://github.com/balisujohn)
+  * [Presentation Slides](https://github.com/UW-UPL/Talks/blob/master/archive/2018%20Intro%20to%20GitHub(Adapted%20from%20HUB%20intro%20to%20github).pptx)
 
 ## Fall 2017
 * Git Talk | [Evan Kivolowitz](https://github.com/ekivolowitz) and [Aaron Levin](https://github.com/awlevin)
